@@ -1,0 +1,74 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@RealChanandlerBong 
+We are having a problem billing your account. Please update your payment method or call your payment provider for details on why the transaction failed.
+You can contact support with any questions.
+github
+/
+gitignore
+Public
+Code
+Pull requests
+275
+Actions
+Security
+Insights
+gitignore/C++.gitignore
+
+pmartinez added prerequisites for C and C++
+Latest commit 2c52d02 on Jun 29, 2016
+ History
+ 8 contributors
+@malleor@peterfpeterson@rhysd@jlokimlin@bnoordhuis@d2s@mrtazz@starrify
+32 lines (26 sloc)  270 Bytes
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+
